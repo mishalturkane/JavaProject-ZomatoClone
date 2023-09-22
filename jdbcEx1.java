@@ -1,0 +1,2 @@
+class jdbcEx1{
+}
